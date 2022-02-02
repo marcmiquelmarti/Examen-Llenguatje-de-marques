@@ -114,3 +114,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   createBoard()
 })
+
+const grid = document.querySelector('.grid');
+
+function aumentarText() {
+  score1.style.fontSize = "30px";
+}
+
+function resetText() {
+  score1.style.fontSize = "20px"
+}

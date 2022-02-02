@@ -4,3 +4,12 @@
   width: 400px;
   height: 300px;
 }
+
+
+.score1{
+  font-size: 20px;
+}
+
+.score1 p:hover{
+  font-size: 30px;
+}
